@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Camera AI
+
+**Embryo Camera AI** is Embryo-Zero's fork of [frigate](https://github.com/blakeblackshear/frigate), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <p align="center">
   <img align="center" alt="logo" src="docs/static/img/branding/frigate.png">
 </p>
